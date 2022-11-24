@@ -623,7 +623,7 @@ R1-4 = R1||R2||R3||R4||R11||R12 = 422 ohmios
 
       VIDEO:
 
-LINK:
+LINK: https://youtu.be/6XXQeN-qXv0
 
       CONCLUSIONES:
 
