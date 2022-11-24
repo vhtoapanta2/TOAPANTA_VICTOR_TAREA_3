@@ -42,9 +42,9 @@ CAPITULO 5
 
 CAPITULO 6
 
-![image](https://user-images.githubusercontent.com/117923992/203674843-072ea3e7-f718-49dd-90cf-4ecca3da4865.png)
+![image](https://user-images.githubusercontent.com/117923992/203675183-a2883fa2-3845-49fe-b6a5-a7b0f86317ab.png)
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/117923992/203675209-5d0a4509-bf4b-423d-b83b-aebf993e46f4.png)
 
       EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS:
 
